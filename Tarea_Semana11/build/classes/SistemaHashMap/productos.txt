@@ -1,0 +1,5 @@
+Leche, 2.5
+Pan, 1.0
+Queso, 4.0
+Papa, 6.3
+Zapallo, 5.7
